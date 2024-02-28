@@ -1,1 +1,1 @@
-teste entendi porra
+## ESTUDOS DA LINGUAGEM GO ##
